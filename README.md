@@ -1,5 +1,3 @@
-Based on both images (README layout + structure) and your project files (Python + SQL), here is a **clean, professional GitHub README** tailored for a **Data Analyst portfolio project** 👇
-
 ---
 
 # 🏬 Retail Sales Analysis & Data Pipeline Project
