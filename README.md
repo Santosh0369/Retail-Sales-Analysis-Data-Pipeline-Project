@@ -1,5 +1,3 @@
----
-
 # 🏬 Retail Sales Analysis & Data Pipeline Project
 
 ## 📌 1. Title
